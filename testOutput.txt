@@ -1,0 +1,41 @@
+>>> 
+ RESTART: C:\Users\Racter\AppData\Local\Programs\Python\Python37\checkMoveContractList.py 
+
+Here's the current list of available contracts...
+
+value:  Aug18
+value:  Sep18
+value:  Oct18
+value:  Nov18
+value:  Jan19
+value:  Mar19
+value:  Apr19
+
+Checking if date expired for contract on top of the list...
+
+Contract expired on 2018-08-01 00:00:00 Today's date is: 2018-08-28 12:31:03.759586
+
+Moving list up because contract on top of the list has expired...
+
+Here's the current list of available contracts...
+
+value:  Sep18
+value:  Oct18
+value:  Nov18
+value:  Jan19
+value:  Mar19
+value:  Apr19
+value:  None
+
+Adding a new contract May19 to the end of the list...
+
+Here's the current list of available contracts...
+
+value:  Sep18
+value:  Oct18
+value:  Nov18
+value:  Jan19
+value:  Mar19
+value:  Apr19
+value:  May19
+>>> 
